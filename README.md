@@ -7,7 +7,7 @@ Before you can run this application, you must have the following software instal
 - Node.js
 - npm
 - MongoDB
-- npm
+
 
 ## Installation 
 To install the application, follow these steps:
